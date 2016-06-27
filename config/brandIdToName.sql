@@ -1,0 +1,1 @@
+select a.brand_id,a.brand_name from fangcheng_global.brand as a

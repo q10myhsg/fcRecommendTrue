@@ -1,0 +1,29 @@
+2016-06-22 16:46:06  INFO com.db.MysqlConnection  - Succeeded connecting to the Database!
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/mall/mallData.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/mall/mallFeather.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/mall/mallFeatherOne.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/mall/brandFeather.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/mall/brandFeatherOne.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/mall/mallCategory.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/brand/brandData.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/brand/mallFeather.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/brand/mallFeatherOne.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/brand/brandFeather.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/brand/brandFeatherOne.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/mallIdToName.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/brandIdToName.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/categoryIdToName.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/cityIdToName.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/mallProperties.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/cateCat1Cat2.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/brandInvertArea.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/area.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/areaToMall.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/cityName.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/cityDpCode.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/cityIdToDpId.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/commentFeather.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/cateAllRank.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/cateOneRank.sql	utf-8
+2016-06-22 16:47:11  INFO com.util.FileUtil2  - E:\workspace\fcRecommendTrue/config/levelRank.sql	utf-8
+2016-06-22 16:51:30  INFO com.db.MysqlConnection  - Succeeded connecting to the Database!
